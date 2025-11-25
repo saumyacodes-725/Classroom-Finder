@@ -1,4 +1,4 @@
-# 📘 University Problem-Solving Project  
+
 ### Full Project Documentation
 
 ## 1. Problem Identification  
